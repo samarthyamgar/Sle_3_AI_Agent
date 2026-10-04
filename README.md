@@ -153,9 +153,10 @@ SLE-3/
 │
 ├── README.md
 ├── Contribution_Log.md
+├──SLE3_25UAM122_SamarthYamgar.docx
 │
 ├── code/
-│   └── maze_solver.py
+│   └── maze_profiler.py
 │
 └── docs/
     ├── level1_context.png
